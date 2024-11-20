@@ -1,0 +1,28 @@
+.hero{
+    background-image: url(../assents/images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.nav{
+    background-image: url(../assents/images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+}
+.restaurants{
+    background:url(../assents/images/restaurants-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    background-image: url(../assents/images/menu-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.end{
+    background-image: url(../assents/images/end-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 732px;
+}
